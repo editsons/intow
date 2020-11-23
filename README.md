@@ -1,5 +1,5 @@
 # Intow
-Intow is a small console application that is able to send keys to a specified destination window. It uses a special technique that allows it to send input to application windows that normally would block virtual inputs.
+Intow is a small console application that is able to send keys to a specified destination window. It uses a special technique that allows it to send input to application windows that normally would block virtual inputs. Intow stands for "input to window".
 
 # Features
 - Sending arbitrary many series of keys, so called inputs, in a loop
