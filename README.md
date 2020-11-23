@@ -7,7 +7,7 @@ Intow is a small console application that is able to send keys to a specified de
 
 # Console interface
 Intow is fully controlled by interacting with the console. The commands (capitalization is irrelevant):
-
+- commands: Lists all available commands with a brief description (just like below).
 - listWindows: Fetches a list of all top-level open windows and prints it.
 - listWindows2: Fetches a list of open windows with mediocre filtering and prints it.
 - listWindows3: Fetches a list of all open windows and prints it.
