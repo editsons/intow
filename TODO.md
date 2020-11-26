@@ -1,7 +1,7 @@
-- fix listInputs error
-- delete command
 - disableToggleKey command
 - keylist command
 - save all commands to a map
 - priorities
-* templates
+- templates
+- set input property functions (setWindow, setDelay1, ...)
+- perhaps remove "list" at list commands
