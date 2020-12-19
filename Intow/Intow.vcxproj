@@ -147,10 +147,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="helpers.cpp" />
+    <ClCompile Include="Input.cpp" />
     <ClCompile Include="Intow.cpp" />
+    <ClCompile Include="Window.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="VirtualKeyCodeMap.h" />
+    <ClInclude Include="helpers.h" />
+    <ClInclude Include="Input.h" />
+    <ClInclude Include="Window.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
