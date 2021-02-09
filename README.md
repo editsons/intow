@@ -7,6 +7,7 @@ Intow is a small console application that is able to send keys to specified dest
 
 # Console interface
 Intow is fully controlled by interacting with the console. The commands (capitalization is irrelevant):
+> :exclamation: ​Warning: This list is incomplete and out of date.
 - commands: Lists all available commands with a brief description (just like below).
 - listWindows: Fetches a list of all top-level open windows and prints it.
 - listWindows2: Fetches a list of open windows with mediocre filtering and prints it.
@@ -15,3 +16,4 @@ Intow is fully controlled by interacting with the console. The commands (capital
 - focus windowId: Sets the window with the corresponding window id as the foreground window.
 - new
 - delete
+
